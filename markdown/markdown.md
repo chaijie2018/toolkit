@@ -28,7 +28,7 @@ My profile
 ### 内嵌式链接
 
 - 外部链接: [百度](http://www.baidu.com)
-- 链接至仓库其它文件）: [markdown_list](markdown_list.md)
+- 链接至仓库其它文件）: [list](list.md)
 - 链接至本文档其它部分: [代码块](markdown.md#代码块)
 
 ### 引用式链接
@@ -95,7 +95,7 @@ Git Flavored Markdown
 我是块注释
 -->
 [百度]: http://www.baidu.com
-[markdown_list]: list.md
+[list]: list.md
 [代码块]: demo1.md#代码块
 
 [baidu_logo]: https://www.baidu.com/img/bd_logo1.png?where=super
