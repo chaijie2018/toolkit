@@ -1,0 +1,24 @@
+# Programming Languages  
+- JavaScript
+  - Promises
+  - Standard Style - Style guide and linter.
+  - Must Watch Talks
+  - Tips
+  - Network Layer
+  - Micro npm Packages  
+  - Mad Science npm Packages - Impossible sounding projects that exist.
+  - Maintenance Modules - For npm packages.
+  - npm - Package manager.
+  - AVA - Test runner.
+  - ESLint - Linter.
+  - Functional Programming
+  - Observables
+  - npm scripts - Task runner.
+  - 30 Seconds of Code - Code snippets you can understand in 30 seconds.
+- Swift
+  - Education
+  - Playgrounds
+  - Python
+  - Asyncio - Asynchronous I/O in Python 3.
+  - Scientific Audio - Scientific research in audio/music.
+  - CircuitPython - A version of Python for microcontrollers.
